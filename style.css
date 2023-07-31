@@ -18,7 +18,7 @@ body{
 .main{
     padding: 0 88px;
     position: relative;
-    overflow-x: hidden;
+    overflow-x: none;
     background-color: #221f2f;
 }
 
