@@ -233,20 +233,25 @@ body{
 }
 
 .get-started .header{
-    align-self: center;
+    margin: 0;
     color: #fff;
     font-weight: 500;
     font-size: 40px;
     line-height: 72px;
+    
+   
+  
 }
 
 .get-started .info-text{
-    align-self: center;
+    
     color: #ccc;
     font-weight: 400;
     font-size: 20px;
     line-height: 36px;
     letter-spacing: 0.5px;
+    margin: 20px 0 32px;
+  
 }
 
 .about .info-text{
@@ -359,7 +364,7 @@ body{
 
 
 .main .footer{
-    margin: 0 0;
+    margin: 5px 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -424,7 +429,7 @@ body{
 }
 
 .about .header{
-    lign-self: center;
+    align-self: center;
     color: #fff;
     line-height: 72px;
     overflow-x: hidden;
