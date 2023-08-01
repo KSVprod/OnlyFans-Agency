@@ -471,7 +471,11 @@ span{
     }
 
     .get-started .info-text{
-        text-align: center;
+        text-align: left;
+    }
+
+    .top-container .info-text{
+        text-align: left;
     }
 
     .get-started .items-box{
