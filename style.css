@@ -520,6 +520,9 @@ span{
         top: 90px;
         filter: blur(120px);
     }
+    .top-container .info-text{
+        text-align: left;
+    }
 
     
 }
@@ -554,6 +557,9 @@ span{
     .footer .footer-links .link p{
         font-size: 11px;
         line-height: 18px;
+    }
+    .top-container .info-text{
+        text-align: left;
     }
     
 }
